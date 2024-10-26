@@ -33,8 +33,8 @@ User authentication is implemented for secure access to certain operations.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd book-management-api
+   git clone https://github.com/Alltoft/book_api.git
+   cd book_api
    ```
 
 2. **Install dependencies:**
