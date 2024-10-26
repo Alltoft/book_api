@@ -1,7 +1,9 @@
 ```markdown
 # Book Management API
 
-This is a RESTful API built with Flask for managing a collection of books. It allows users to register, log in, and perform CRUD operations (Create, Read, Update, Delete) on book entries. User authentication is implemented for secure access to certain operations.
+This is a RESTful API built with Flask for managing a collection of books.
+It allows users to register, log in, and perform CRUD operations (Create, Read, Update, Delete) on book entries.
+User authentication is implemented for secure access to certain operations.
 
 ## Features
 
