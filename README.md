@@ -32,7 +32,7 @@ User authentication is implemented for secure access to certain operations.
 ## Setup
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone https://github.com/Alltoft/book_api.git
    cd book_api
    ```
